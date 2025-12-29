@@ -12,7 +12,7 @@ quietly building · learning deeply · documenting honestly
   />
 </p>
 
-<br/>
+<hr style="border:0; height:2px; background: linear-gradient(to right, #5fd1c9, #8be3dd); margin:30px 0; border-radius:2px;"/>
 
 <p style="max-width:520px;margin:auto;line-height:1.6;">
 i’m a developer who prefers <span style="color:#5fd1c9;">understanding things properly</span>
@@ -20,14 +20,14 @@ instead of just making them work.
 slow progress, clear structure, and showing up consistently matter more to me than rushing outcomes.
 </p>
 
-<br/>
+<hr style="border:0; height:2px; background: linear-gradient(to right, #5fd1c9, #8be3dd); margin:30px 0; border-radius:2px;"/>
 
 <p style="max-width:520px;margin:auto;line-height:1.6;">
 most days are spent learning, building, refactoring, and writing things down 
 not everything is polished yet, but everything is intentional.
 </p>
 
-<br/>
+<hr style="border:0; height:2px; background: linear-gradient(to right, #5fd1c9, #8be3dd); margin:30px 0; border-radius:2px;"/>
 
 <h3 style="font-weight:500;text-align:center;color:#8be3dd;">
 how i approach learning
@@ -40,7 +40,7 @@ structure and clarity.<br/>
 documenting progress so future-me doesn’t suffer.
 </p>
 
-<br/>
+<hr style="border:0; height:2px; background: linear-gradient(to right, #5fd1c9, #8be3dd); margin:30px 0; border-radius:2px;"/>
 
 <h3 style="font-weight:500;text-align:center;color:#8be3dd;">
 outside the code
@@ -53,7 +53,13 @@ learning happens late at night or very early in the morning
 it depends on the day.
 </p>
 
-<br/><br/>
+<div align="center" style="margin:20px 0;">
+  <img src="https://i.imgur.com/1Xf7nA7.png" width="50" style="margin:0 5px;" alt="pixel heart"/>
+  <img src="https://i.imgur.com/0v1Hq6L.png" width="50" style="margin:0 5px;" alt="pixel cat"/>
+  <img src="https://i.imgur.com/H1J1Q5J.png" width="50" style="margin:0 5px;" alt="pixel star"/>
+</div>
+
+<hr style="border:0; height:2px; background: linear-gradient(to right, #5fd1c9, #8be3dd); margin:30px 0; border-radius:2px;"/>
 
 <p align="center" style="color:#a0bcbc;">
 <i>not rushed · not loud · intentional</i>
