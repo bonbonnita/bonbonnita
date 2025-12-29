@@ -12,7 +12,7 @@ quietly building · learning deeply · documenting honestly
   />
 </p>
 
-<br/><br/>
+<br/>
 
 <p style="max-width:520px;margin:auto;line-height:1.6;">
 i’m a developer who prefers <span style="color:#5fd1c9;">understanding things properly</span>
@@ -27,7 +27,7 @@ most days are spent learning, building, refactoring, and writing things down
 not everything is polished yet, but everything is intentional.
 </p>
 
-<br/><br/>
+<br/>
 
 <h3 style="font-weight:500;text-align:center;color:#8be3dd;">
 how i approach learning
@@ -40,7 +40,7 @@ structure and clarity.<br/>
 documenting progress so future-me doesn’t suffer.
 </p>
 
-<br/><br/>
+<br/>
 
 <h3 style="font-weight:500;text-align:center;color:#8be3dd;">
 outside the code
