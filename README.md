@@ -1,45 +1,64 @@
-<h2 align="center">hi, i’m bonbon</h2>
+<h2 align="center" style="color:#8be3dd;">hi, i’m bonbon</h2>
 
-<p align="center">
+<p align="center" style="color:#a0bcbc;">
 quietly building · learning deeply · documenting honestly
 </p>
 
 <p align="center">
-  <img src="![Miku Hatsune 👀](https://github.com/user-attachments/assets/487fb6e3-0940-4a49-bf0c-e615c14c9681)" width="160" style="border-radius:50;" />
+  <img 
+    src="https://github.com/user-attachments/assets/487fb6e3-0940-4a49-bf0c-e615c14c9681"
+    width="160"
+    style="border-radius:50%; box-shadow:0 0 0 2px rgba(95,209,201,0.25);"
+  />
 </p>
-<hr style="border:none;height:1px;background:#2f2f2f;" />
-<br/>
-<p style="max-width:520px;margin:auto;">
-i’m a developer who prefers understanding things properly instead of just making them work.
+
+<br/><br/>
+
+<p style="max-width:520px;margin:auto;line-height:1.6;">
+i’m a developer who prefers <span style="color:#5fd1c9;">understanding things properly</span>
+instead of just making them work.
 slow progress, clear structure, and showing up consistently matter more to me than rushing outcomes.
 </p>
-<p style="max-width:520px;margin:auto;">
-most days are spent learning, building, refactoring, and writing things down — not everything is polished yet, but everything is intentional.
+
+<br/>
+
+<p style="max-width:520px;margin:auto;line-height:1.6;">
+most days are spent learning, building, refactoring, and writing things down 
+not everything is polished yet, but everything is intentional.
 </p>
-<br/>
-<hr style="border:none;height:1px;background:#2f2f2f;" />
-<br/>
-<h3 style="font-weight:500;text-align:center;">how i approach learning</h3>
-<p style="max-width:520px;margin:auto;text-align:center;">
-depth over shortcuts.<br/>
-consistency over speed.<br/>
+
+<br/><br/>
+
+<h3 style="font-weight:500;text-align:center;color:#8be3dd;">
+how i approach learning
+</h3>
+
+<p style="max-width:520px;margin:auto;text-align:center;line-height:1.8;">
+<span style="color:#5fd1c9;">depth</span> over shortcuts.<br/>
+<span style="color:#5fd1c9;">consistency</span> over speed.<br/>
 structure and clarity.<br/>
 documenting progress so future-me doesn’t suffer.
 </p>
-<br/>
-<hr style="border:none;height:1px;background:#2f2f2f;" />
-<br/>
-<h3 style="font-weight:500;text-align:center;">outside the code</h3>
-<p style="max-width:520px;margin:auto;">
-anime and games for unwinding, gym sessions and long walks for balance, and journaling thoughts i may never reread.
-learning happens late at night or very early in the morning — it depends on the day.
+
+<br/><br/>
+
+<h3 style="font-weight:500;text-align:center;color:#8be3dd;">
+outside the code
+</h3>
+
+<p style="max-width:520px;margin:auto;line-height:1.6;">
+anime and games for unwinding, reading and long walks for balance,
+and journaling thoughts i may never reread.
+learning happens late at night or very early in the morning 
+it depends on the day.
 </p>
-<br/>
-<hr style="border:none;height:1px;background:#2f2f2f;" />
-<br/>
-<p align="center">
+
+<br/><br/>
+
+<p align="center" style="color:#a0bcbc;">
 <i>not rushed · not loud · intentional</i>
 </p>
-<p align="center">
+
+<p align="center" style="color:#5fd1c9;">
 still learning · still building · still documenting
 </p>
