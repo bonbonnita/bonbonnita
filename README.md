@@ -1,11 +1,11 @@
-<h2 align="center">hi, i’m shrutika 🌱</h2>
+<h2 align="center">hi, i’m bonbon</h2>
 
 <p align="center">
 quietly building · learning deeply · documenting honestly
 </p>
 
 <p align="center">
-  <img src="![Miku Hatsune 👀](https://github.com/user-attachments/assets/487fb6e3-0940-4a49-bf0c-e615c14c9681)" width="160" style="border-radius:50%;" />
+  <img src="![Miku Hatsune 👀](https://github.com/user-attachments/assets/487fb6e3-0940-4a49-bf0c-e615c14c9681)" width="160" style="border-radius:50;" />
 </p>
 <hr style="border:none;height:1px;background:#2f2f2f;" />
 <br/>
