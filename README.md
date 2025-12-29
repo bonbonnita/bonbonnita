@@ -1,4 +1,6 @@
-<h2 align="center" style="color:#8be3dd;">hi, i’m bonbon</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=8be3dd&center=true&vCenter=true&width=500&lines=hi,+i%E2%80%99m+bonbon" alt="Typing SVG"/>
+</p>
 
 <p align="center" style="color:#a0bcbc;">
 quietly building · learning deeply · documenting honestly
