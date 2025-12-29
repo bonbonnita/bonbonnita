@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=8be3dd&center=true&vCenter=true&width=500&lines=hi,+i%E2%80%99m+bonbon" alt="Typing SVG"/>
 </p>
+<hr style="border:0; height:2px; background: linear-gradient(to right, #5fd1c9, #8be3dd); margin:30px 0; border-radius:2px;"/>
 
 <p align="center" style="color:#a0bcbc;">
 quietly building · learning deeply · documenting honestly
