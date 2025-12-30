@@ -8,8 +8,7 @@ quietly building · learning deeply · documenting honestly
 </p>
 
 <p align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/487fb6e3-0940-4a49-bf0c-e615c14c9681"
+  <img src="https://github.com/user-attachments/assets/eb66e284-45e5-44f9-8aa5-85f2c72573d3"
     width="160"
     style="border-radius:50%; box-shadow:0 0 0 2px rgba(95,209,201,0.25);"
   />
