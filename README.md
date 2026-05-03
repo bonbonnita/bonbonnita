@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="736" height="736" alt="github-profile" src="https://github.com/user-attachments/assets/e115fdcd-8362-4e3a-8bde-f40fd773b072" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=ff9ecb&center=true&vCenter=true&width=500&lines=hi,+i%E2%80%99m+bonbon" alt="Typing SVG"/>
 </p>
 
 <hr style="border:0; height:2px; background: linear-gradient(to right, #ff7eb3, #ff9ecb); margin:30px 0; border-radius:2px;"/>
